@@ -211,7 +211,7 @@
 ***LOADING...***
 
 
-## Quest 4*. Conflict.
+## Bonus Quest 4*. Conflict.
 
 \> *Набрать “Есть подозрение, что это финал”*
 
